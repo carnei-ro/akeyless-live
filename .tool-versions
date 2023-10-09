@@ -1,0 +1,5 @@
+terraform 1.6.0
+terraform-docs 0.16.0
+tflint 0.48.0
+tfsec 1.28.4
+terragrunt 0.52.0
